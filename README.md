@@ -1,5 +1,5 @@
 # RockPaperScissors
-Rock-Paper-Scissors C# game
+Rock-Paper-Scissors console game
 
 Расширяемая консольная игра Камень-Ножницы-Бумага
 
